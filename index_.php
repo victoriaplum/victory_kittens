@@ -37,7 +37,7 @@ require_once('includes/header.php');
                                 <li data-thumb="assets/Victoryimages/jonty.jpg">
                                     <img src="assets/Victoryimages/jonty.jpg">
                                     <div class="flex-caption">
-                                    	Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
+                                    	Ut hello wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
                                     	lobortis nisl ut aliquip ex ea commodo consequat.
                                     </div>
                                 </li>
